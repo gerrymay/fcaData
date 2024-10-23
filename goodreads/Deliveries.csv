@@ -1,0 +1,21 @@
+delivery_id,order_id,delivery_date,delivery_status
+3001,2001,02/01/2023 08:45,Delivered
+3006,2006,04/23/2023 14:10:00,Delivered
+3007,2007,05/12/2023 12:55,Delivered
+3009,2009,NULL,In Progress
+3011,2011,NULL,In Progress
+3012,2012,08/24/2023 16:40:00,Delivered
+3013,2013,09/10/2023 13:15,Delivered
+3016,2016,10/30/2023 11:45:00,Delivered
+3017,2017,NULL,In Progress
+3018,2018,11/30/2023 09:30:00,Delivered
+3020,2020,12/29/2023 15:25:00,Delivered
+3002,2002,02/05/2023 10:20,Shipped
+3003,2003,02/10/2023 11:30,Delivered
+3004,2004,NULL,In Progress
+3005,NULL,NULL,Pending
+3008,NULL,NULL,Pending
+3010,NULL,NULL,Pending
+3014,NULL,NULL,Pending
+3015,NULL,NULL,Pending
+3019,NULL,NULL,Pending
