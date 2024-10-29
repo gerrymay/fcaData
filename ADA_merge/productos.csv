@@ -1,0 +1,21 @@
+ProductoID,Nombre,Categoria
+1,Laptop,Electrónica
+2,Smartphone,Electrónica
+3,Café Orgánico,Alimentación
+4,Zapatillas Deportivas,Calzado
+5,Jugo de Naranja,Bebidas
+6,Cuaderno,Papelería
+7,Auriculares Bluetooth,Electrónica
+8,Camiseta de Algodón,Ropa
+9,Mesa de Madera,Muebles
+10,Silla Ergonómica,Muebles
+11,Reloj de Pulsera,Accesorios
+12,Batidora,Electrodomésticos
+13,Perfume Floral,Cosméticos
+14,Libros de Cocina,Libros
+15,Gafas de Sol,Accesorios
+16,Mochila Escolar,Accesorios
+17,Tablet,Electrónica
+18,Cama King Size,Muebles
+19,Taza de Cerámica,Hogar
+20,Jardín Vertical,Decoración

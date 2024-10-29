@@ -1,0 +1,21 @@
+ProductoID,CantidadDisponible,Ubicacion
+1,25,Almacén A
+2,15,Almacén B
+3,50,Almacén C
+4,30,Almacén A
+5,20,Almacén D
+6,100,Almacén C
+7,10,Almacén B
+8,40,Almacén A
+9,5,Almacén D
+10,12,Almacén C
+11,22,Almacén A
+12,35,Almacén B
+13,18,Almacén D
+14,8,Almacén C
+15,27,Almacén A
+16,45,Almacén B
+17,60,Almacén C
+18,11,Almacén D
+19,3,Almacén A
+20,14,Almacén B
