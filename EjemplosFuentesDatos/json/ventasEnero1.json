@@ -1,0 +1,144 @@
+{
+  "ventas": [
+    {
+      "id_venta": 1,
+      "producto": "Laptop",
+      "cantidad": 2,
+      "precio_unitario": 500,
+      "fecha": "2025-01-01"
+    },
+    {
+      "id_venta": 2,
+      "producto": "Teléfono",
+      "cantidad": 1,
+      "precio_unitario": 300,
+      "fecha": "2025-01-02"
+    },
+    {
+      "id_venta": 3,
+      "producto": "Teclado",
+      "cantidad": 5,
+      "precio_unitario": 50,
+      "fecha": "2025-01-02"
+    },
+    {
+      "id_venta": 4,
+      "producto": "Ratón",
+      "cantidad": 3,
+      "precio_unitario": 25,
+      "fecha": "2025-01-03"
+    },
+    {
+      "id_venta": 5,
+      "producto": "Monitor",
+      "cantidad": 1,
+      "precio_unitario": 200,
+      "fecha": "2025-01-04"
+    },
+    {
+      "id_venta": 6,
+      "producto": "Impresora",
+      "cantidad": 2,
+      "precio_unitario": 120,
+      "fecha": "2025-01-05"
+    },
+    {
+      "id_venta": 7,
+      "producto": "Laptop",
+      "cantidad": 1,
+      "precio_unitario": 500,
+      "fecha": "2025-01-06"
+    },
+    {
+      "id_venta": 8,
+      "producto": "Smartwatch",
+      "cantidad": 4,
+      "precio_unitario": 150,
+      "fecha": "2025-01-07"
+    },
+    {
+      "id_venta": 9,
+      "producto": "Auriculares",
+      "cantidad": 6,
+      "precio_unitario": 75,
+      "fecha": "2025-01-08"
+    },
+    {
+      "id_venta": 10,
+      "producto": "Cargador",
+      "cantidad": 10,
+      "precio_unitario": 15,
+      "fecha": "2025-01-09"
+    },
+    {
+      "id_venta": 11,
+      "producto": "Disco duro externo",
+      "cantidad": 3,
+      "precio_unitario": 80,
+      "fecha": "2025-01-10"
+    },
+    {
+      "id_venta": 12,
+      "producto": "Teléfono",
+      "cantidad": 2,
+      "precio_unitario": 300,
+      "fecha": "2025-01-11"
+    },
+    {
+      "id_venta": 13,
+      "producto": "Teclado",
+      "cantidad": 1,
+      "precio_unitario": 50,
+      "fecha": "2025-01-12"
+    },
+    {
+      "id_venta": 14,
+      "producto": "Monitor",
+      "cantidad": 2,
+      "precio_unitario": 200,
+      "fecha": "2025-01-13"
+    },
+    {
+      "id_venta": 15,
+      "producto": "Impresora",
+      "cantidad": 1,
+      "precio_unitario": 120,
+      "fecha": "2025-01-14"
+    },
+    {
+      "id_venta": 16,
+      "producto": "Smartphone",
+      "cantidad": 4,
+      "precio_unitario": 350,
+      "fecha": "2025-01-15"
+    },
+    {
+      "id_venta": 17,
+      "producto": "Tablet",
+      "cantidad": 3,
+      "precio_unitario": 200,
+      "fecha": "2025-01-16"
+    },
+    {
+      "id_venta": 18,
+      "producto": "Teclado mecánico",
+      "cantidad": 2,
+      "precio_unitario": 100,
+      "fecha": "2025-01-17"
+    },
+    {
+      "id_venta": 19,
+      "producto": "Ratón inalámbrico",
+      "cantidad": 5,
+      "precio_unitario": 35,
+      "fecha": "2025-01-18"
+    },
+    {
+      "id_venta": 20,
+      "producto": "Laptop",
+      "cantidad": 3,
+      "precio_unitario": 500,
+      "fecha": "2025-01-19"
+    }
+  ]
+}
