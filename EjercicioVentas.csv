@@ -1,0 +1,7 @@
+"id_cliente,nombre_cliente,ciudad,fecha_venta,monto_venta,vendedor"
+"1, juan perez ,madrid ,01/02/2024,1200,ANA"
+"2,MARIA LOPEZ, Barcelona,15/02/2024,850,ana"
+"3,Carlos Gómez,SEVILLA,28/02/2024,Na,LUIS"
+"4,laura martinez , valencia,05/03/2024,430,luis"
+"5,PEDRO SANCHEZ,Madrid,18/03/2024,2100,ANA"
+"6, Ana Torres ,barcelona,25/03/2024,980,Luis"
